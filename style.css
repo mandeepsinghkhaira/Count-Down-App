@@ -1,0 +1,19 @@
+body{
+    background-image: url("HNY.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: black;
+    /*background-position: center;*/
+    height: 95vh;
+    color: azure;
+    text-align: center;
+    justify-content: center;
+}
+.digits{
+    letter-spacing: 13px;
+}
+
+.titles{
+    display: block;
+    letter-spacing: -1px;
+}
